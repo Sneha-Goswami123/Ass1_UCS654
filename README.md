@@ -85,7 +85,7 @@ These values are specific to the given roll number and dataset.
 
 ## 7. Repository Structure
 ```
-Assignment-1-PDF-Learning
+Ass1_UCS654
 ├── Ass1_102303723_UCS654.ipynb
 └── README.md
 ```
