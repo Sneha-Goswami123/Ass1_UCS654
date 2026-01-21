@@ -86,7 +86,7 @@ These values are specific to the given roll number and dataset.
 ## 7. Repository Structure
 ```
 Assignment-1-PDF-Learning
-├── Ass1_102303723_Predictive.ipynb
+├── Ass1_102303723_UCS654.ipynb
 └── README.md
 ```
 ## 8. Conclusion
